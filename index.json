@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27",
+  "updatedAt": "2026-09-27T02:08:45.239Z",
   "categories": [
     {
       "id": "all",
@@ -31,5 +31,14 @@
       "title": "Minimal"
     }
   ],
-  "wallpapers": []
+  "wallpapers": [
+    {
+      "id": "wp_1790474920653_8fido4",
+      "title": "20",
+      "category": "makkah_madinah",
+      "url": "https://raw.githubusercontent.com/salahudheen9847/al-bader-wallpapers/main/wallpapers/wp_1790474920653_8fido4.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/salahudheen9847/al-bader-wallpapers/main/thumbnails/wp_1790474920653_8fido4.jpg",
+      "createdAt": "2026-09-27T02:08:44.941Z"
+    }
+  ]
 }
