@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T03:21:18.351Z",
+  "updatedAt": "2026-09-27T03:58:11.562891+00:00",
   "categories": [
     {
       "id": "all",
@@ -39,14 +39,6 @@
       "url": "https://raw.githubusercontent.com/salahudheen9847/al-bader-wallpapers/main/wallpapers/wp_1790479274738_wg81cg.jpg",
       "thumbnailUrl": "https://raw.githubusercontent.com/salahudheen9847/al-bader-wallpapers/main/thumbnails/wp_1790479274738_wg81cg.jpg",
       "createdAt": "2026-09-27T03:21:18.060Z"
-    },
-    {
-      "id": "wp_1790474920653_8fido4",
-      "title": "20",
-      "category": "makkah_madinah",
-      "url": "https://raw.githubusercontent.com/salahudheen9847/al-bader-wallpapers/main/wallpapers/wp_1790474920653_8fido4.jpg",
-      "thumbnailUrl": "https://raw.githubusercontent.com/salahudheen9847/al-bader-wallpapers/main/thumbnails/wp_1790474920653_8fido4.jpg",
-      "createdAt": "2026-09-27T02:08:44.941Z"
     }
   ]
 }
