@@ -1,1 +1,35 @@
-
+{
+  "version": 1,
+  "updatedAt": "2026-09-27",
+  "categories": [
+    {
+      "id": "all",
+      "title": "All"
+    },
+    {
+      "id": "makkah_madinah",
+      "title": "Makkah & Madinah"
+    },
+    {
+      "id": "quran",
+      "title": "Quran"
+    },
+    {
+      "id": "dua_dhikr",
+      "title": "Dua & Dhikr"
+    },
+    {
+      "id": "calligraphy",
+      "title": "Calligraphy"
+    },
+    {
+      "id": "mosques",
+      "title": "Mosques"
+    },
+    {
+      "id": "minimal",
+      "title": "Minimal"
+    }
+  ],
+  "wallpapers": []
+}
