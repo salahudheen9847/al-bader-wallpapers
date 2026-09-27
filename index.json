@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T02:08:45.239Z",
+  "updatedAt": "2026-09-27T03:21:18.351Z",
   "categories": [
     {
       "id": "all",
@@ -32,6 +32,14 @@
     }
   ],
   "wallpapers": [
+    {
+      "id": "wp_1790479274738_wg81cg",
+      "title": "Madinah Sunset",
+      "category": "makkah_madinah",
+      "url": "https://raw.githubusercontent.com/salahudheen9847/al-bader-wallpapers/main/wallpapers/wp_1790479274738_wg81cg.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/salahudheen9847/al-bader-wallpapers/main/thumbnails/wp_1790479274738_wg81cg.jpg",
+      "createdAt": "2026-09-27T03:21:18.060Z"
+    },
     {
       "id": "wp_1790474920653_8fido4",
       "title": "20",
