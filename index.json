@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T06:09:49.007Z",
+  "updatedAt": "2026-09-27T07:47:30.164Z",
   "categories": [
     {
       "id": "all",
@@ -32,6 +32,14 @@
     }
   ],
   "wallpapers": [
+    {
+      "id": "wp_1790495245969_qvpiuf",
+      "title": "mosque",
+      "category": "mosques",
+      "url": "https://raw.githubusercontent.com/salahudheen9847/al-bader-wallpapers/main/wallpapers/wp_1790495245969_qvpiuf.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/salahudheen9847/al-bader-wallpapers/main/thumbnails/wp_1790495245969_qvpiuf.jpg",
+      "createdAt": "2026-09-27T07:47:29.865Z"
+    },
     {
       "id": "wp_1790489384209_grkimt",
       "title": "40",
